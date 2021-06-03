@@ -5,6 +5,8 @@ rm SHA1SUMS.gpg
 rm SHA256SUMS
 rm SHA256SUMS.gpg
 rm build-info.txt
+rm ubuntu-impish-core-cloudimg-amd64-root.tar.gz
+rm ubuntu-impish-core-cloudimg-amd64.manifest
 
 wget https://partner-images.canonical.com/core/impish/current/MD5SUMS
 wget https://partner-images.canonical.com/core/impish/current/MD5SUMS.gpg
