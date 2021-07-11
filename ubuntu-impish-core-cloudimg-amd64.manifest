@@ -1,7 +1,7 @@
 adduser	3.118ubuntu5
 apt	2.3.6
 base-files	11.1ubuntu3
-base-passwd	3.5.50
+base-passwd	3.5.51
 bash	5.1-3ubuntu1
 bsdutils	1:2.36.1-7ubuntu2
 coreutils	8.32-4ubuntu2
