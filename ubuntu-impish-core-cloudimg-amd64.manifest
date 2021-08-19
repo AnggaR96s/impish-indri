@@ -89,7 +89,7 @@ mount	2.36.1-8ubuntu1
 ncurses-base	6.2+20201114-2build1
 ncurses-bin	6.2+20201114-2build1
 passwd	1:4.8.1-1ubuntu9
-perl-base	5.32.1-3ubuntu2
+perl-base	5.32.1-3ubuntu3
 procps	2:3.3.17-5ubuntu3
 sed	4.7-1ubuntu1
 sensible-utils	0.0.14
