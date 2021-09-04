@@ -8,11 +8,11 @@ coreutils	8.32-4ubuntu2
 dash	0.5.11+git20210120+802ebd4-1
 debconf	1.5.77
 debianutils	4.11.2
-diffutils	1:3.7-5ubuntu1
+diffutils	1:3.8-0ubuntu1
 dpkg	1.20.9ubuntu2
 e2fsprogs	1.46.2-1ubuntu2
 findutils	4.8.0-1ubuntu2
-gcc-11-base:amd64	11.2.0-1ubuntu2
+gcc-11-base:amd64	11.2.0-3ubuntu1
 gpgv	2.2.20-1ubuntu4
 grep	3.6-1
 gzip	1.10-4ubuntu1
@@ -25,8 +25,8 @@ libaudit-common	1:3.0-2ubuntu2
 libaudit1:amd64	1:3.0-2ubuntu2
 libblkid1:amd64	2.36.1-8ubuntu1
 libbz2-1.0:amd64	1.0.8-4ubuntu3
-libc-bin	2.33-0ubuntu9
-libc6:amd64	2.33-0ubuntu9
+libc-bin	2.34-0ubuntu2
+libc6:amd64	2.34-0ubuntu2
 libcap-ng0:amd64	0.7.9-2.2build1
 libcap2:amd64	1:2.44-1build1
 libcom-err2:amd64	1.46.2-1ubuntu2
@@ -35,10 +35,10 @@ libdb5.3:amd64	5.3.28+dfsg1-0.8ubuntu1
 libdebconfclient0:amd64	0.256ubuntu3
 libext2fs2:amd64	1.46.2-1ubuntu2
 libffi8ubuntu1:amd64	3.4~20200819gead65ca871-0ubuntu5
-libgcc-s1:amd64	11.2.0-1ubuntu2
+libgcc-s1:amd64	11.2.0-3ubuntu1
 libgcrypt20:amd64	1.8.7-5ubuntu1
 libgmp10:amd64	2:6.2.1+dfsg-1ubuntu2
-libgnutls30:amd64	3.7.1-4ubuntu1
+libgnutls30:amd64	3.7.1-5ubuntu1
 libgpg-error0:amd64	1.38-2build1
 libgssapi-krb5-2:amd64	1.18.3-6
 libhogweed6:amd64	3.7.3-1
@@ -59,7 +59,7 @@ libpam-modules:amd64	1.3.1-5ubuntu8
 libpam-modules-bin	1.3.1-5ubuntu8
 libpam-runtime	1.3.1-5ubuntu8
 libpam0g:amd64	1.3.1-5ubuntu8
-libpcre2-8-0:amd64	10.36-2ubuntu5
+libpcre2-8-0:amd64	10.37-0ubuntu2
 libpcre3:amd64	2:8.39-13build3
 libprocps8:amd64	2:3.3.17-5ubuntu3
 libseccomp2:amd64	2.5.1-1ubuntu1
@@ -69,8 +69,8 @@ libsemanage1:amd64	3.1-1ubuntu1
 libsepol1:amd64	3.1-1ubuntu1
 libsmartcols1:amd64	2.36.1-8ubuntu1
 libss2:amd64	1.46.2-1ubuntu2
-libssl1.1:amd64	1.1.1j-1ubuntu5
-libstdc++6:amd64	11.2.0-1ubuntu2
+libssl1.1:amd64	1.1.1k-1ubuntu1
+libstdc++6:amd64	11.2.0-3ubuntu1
 libsystemd0:amd64	248.3-1ubuntu3
 libtasn1-6:amd64	4.16.0-2
 libtinfo6:amd64	6.2+20201114-2build1
